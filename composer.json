@@ -15,7 +15,9 @@
         "psr-4": {
             "Azizkorkmaz\\" : "src/"
         }
-    }
+    },
+
+    "version": "1.0"
 
 }
 
