@@ -1,0 +1,22 @@
+{
+    "name": "azizkorkmaz/demo",
+    "description": "ilk demo paket",
+    "type": "library",
+    "require": {
+        "moontoast/math": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "azizkorkmaz",
+            "email": "aziz_korkmaz21@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Azizkorkmaz\\" : "src/"
+        }
+    }
+
+}
+
+
